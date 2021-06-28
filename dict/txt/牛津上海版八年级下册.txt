@@ -1,0 +1,484 @@
+﻿average
+average
+item
+item
+product
+product
+fighter
+fighter
+fact
+fact
+scientist
+scientist
+interested
+interested
+interested in
+interested in
+be interested in
+be interested in
+notebook
+notebook
+suppose
+suppose
+breathe
+breathe
+pure
+pure
+gas
+gas
+release
+release
+oxygen
+oxygen
+hectare
+hectare
+produce
+produce
+alive
+alive
+as well as
+as well as
+natural
+natural
+air conditioner
+air conditioner
+warn
+warn
+protect
+protect
+chemical
+chemical
+nasty
+nasty
+join
+join
+communicate
+communicate
+one another
+one another
+burn
+burn
+replace
+replace
+hardly
+hardly
+destroy
+destroy
+exchange
+exchange
+nature
+nature
+main
+main
+lorry
+lorry
+daily
+daily
+amount
+amount
+increase
+increase
+remain
+remain
+symbol
+symbol
+flow
+flow
+washbasin
+washbasin
+vanish
+vanish
+drain
+drain
+impatient
+impatient
+obey
+obey
+faint
+faint
+float
+float
+comfortably
+comfortably
+relax
+relax
+clean up
+clean up
+puzzled
+puzzled
+treatment
+treatment
+works
+works
+thorough
+thorough
+cleaning
+cleaning
+pipe
+pipe
+until
+until
+sewage
+sewage
+sewage plant
+sewage plant
+pump
+pump
+precious
+precious
+liquid
+liquid
+rest
+rest
+ordinary
+ordinary
+manufacture
+manufacture
+equipment
+equipment
+tool
+tool
+chart
+chart
+servant
+servant
+electricity
+electricity
+trick
+trick
+foolish
+foolish
+wire
+wire
+meter
+meter
+measure
+measure
+bill
+bill
+monthly
+monthly
+in a way
+in a way
+explanation
+explanation
+careful
+careful
+careful with
+careful with
+be careful with
+be careful with
+scratch
+scratch
+invisible
+invisible
+bulb
+bulb
+connect to
+connect to
+bury
+bury
+power station
+power station
+politely
+politely
+grin
+grin
+contain
+contain
+clear
+clear
+iron
+iron
+switch
+switch
+off
+off
+switch off
+switch off
+lock
+lock
+test
+test
+encourage
+encourage
+behave
+behave
+polite
+polite
+staff
+staff
+customer
+customer
+passage
+passage
+term
+term
+publish
+publish
+elect
+elect
+chief
+chief
+editor
+editor
+suggest
+suggest
+experience
+experience
+take charge of
+take charge of
+ought to
+ought to
+talk ... over
+talk ... over
+reader
+reader
+consider
+consider
+briefly
+briefly
+whether
+whether
+a bit
+a bit
+decision
+decision
+make a decision
+make a decision
+conclude
+conclude
+monitor
+monitor
+choice
+choice
+agree on
+agree on
+youth
+youth
+in all
+in all
+talent
+talent
+gather
+gather
+congratulation
+congratulation
+deserve
+deserve
+delighted
+delighted
+shame
+shame
+record
+record
+team
+team
+design
+design
+feature
+feature
+complain
+complain
+committee
+committee
+prize
+prize
+sight
+sight
+soul
+soul
+balance
+balance
+line
+line
+belong to
+belong to
+drama
+drama
+as soon as
+as soon as
+reception
+reception
+exclaim
+exclaim
+bark
+bark
+at once
+at once
+guest
+guest
+lead
+lead
+personally
+personally
+sensible
+sensible
+describe
+describe
+alarm
+alarm
+fire alarm
+fire alarm
+go off
+go off
+surface
+surface
+dead
+dead
+cough
+cough
+seem
+seem
+wave
+wave
+save one's life
+save one's life
+lend
+lend
+event
+event
+take care
+take care
+mind
+mind
+look out
+look out
+watch out
+watch out
+label
+label
+harbour
+harbour
+defeat
+defeat
+wine
+wine
+adult
+adult
+France
+France
+now that
+now that
+abroad
+abroad
+Paris
+Paris
+destination
+destination
+world-famous
+world-famous
+landmark
+landmark
+such as
+such as
+tree-lined
+tree-lined
+attraction
+attraction
+go on to do something
+go on to do something
+enable
+enable
+agricultural
+agricultural
+region
+region
+wheat
+wheat
+sunflower
+sunflower
+vineyard
+vineyard
+excellent
+excellent
+scenic
+scenic
+castle
+castle
+queen
+queen
+influence
+influence
+in some ways
+in some ways
+French
+French
+cheese
+cheese
+leader
+leader
+culture
+culture
+further
+further
+concert
+concert
+throughout
+throughout
+level
+level
+at work
+at work
+site
+site
+crane
+crane
+narrow
+narrow
+plank
+plank
+scared
+scared
+verse
+verse
+on one's own
+on one's own
+pleased
+pleased
+pleased with
+pleased with
+be pleased with
+be pleased with
+attention
+attention
+pay attention
+pay attention
+scold
+scold
+detention
+detention
+chat
+chat
+alone
+alone
+author
+author
+pretend
+pretend
+score
+score
+thank goodness
+thank goodness
+concern
+concern
+accept
+accept
+reject
+reject
+feel like
+feel like
+express
+express
+pain
+pain
+medicine
+medicine
+generous
+generous
+honest
+honest
+fair
+fair
+patient
+patient

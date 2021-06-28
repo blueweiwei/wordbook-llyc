@@ -1,0 +1,619 @@
+﻿achievement
+achievement
+Joan of Arc
+Joan of Arc
+Elizabeth Fry
+Elizabeth Fry
+Quaker
+Quaker
+welfare
+welfare
+project
+project
+institute
+institute
+China Welfare Institute
+China Welfare Institute
+specialist
+specialist
+specialize
+specialize
+Jane Goodall
+Jane Goodall
+chimp
+chimp
+connection
+connection
+human being
+human being
+Jody Williams
+Jody Williams
+campaign
+campaign
+landmine
+landmine
+organization
+organization
+Gombe National Park
+Gombe National Park
+behave
+behave
+behaviour
+behaviour
+shade
+behavior
+move off
+shade
+worthwhile
+move off
+nest
+worthwhile
+bond
+nest
+observe
+bond
+observation
+observe
+childhood
+observation
+outspoken
+childhood
+respect
+outspoken
+argue
+respect
+argument
+argue
+entertainment
+argument
+lead a ... life
+entertainment
+crowd
+lead a ... life
+crowd in
+crowd
+inspire
+crowd in
+inspiration
+inspire
+support
+inspiration
+look down upon
+support
+look down on
+look down upon
+refer
+look down on
+refer to
+refer
+audience
+refer to
+by chance
+audience
+come across
+by chance
+career
+come across
+rate
+career
+sickness
+rate
+intend
+sickness
+emergency
+intend
+generation
+emergency
+determination
+generation
+kindness
+determination
+considerate
+kindness
+consideration
+considerate
+deliver
+consideration
+carry on
+deliver
+modest
+carry on
+statistic
+modest
+sunburnt
+struggle
+decade
+super
+hybrid
+output
+strain
+crop
+hunger
+disturbing
+expand
+circulate
+Vietnam
+thanks to
+battle
+rid
+rid ... of
+be satisfied with
+freedom
+would rather
+therefore
+equip
+sorghum
+grain
+peanut
+export
+nationality
+occupation
+personality
+confuse
+regret
+chemical
+organic
+fertile
+fertilizer
+production
+bacteria
+pest
+build up
+lead to
+nutrition
+mineral
+discovery
+focus
+focus on
+soil
+reduce
+keep ... free from
+keep ... free of
+soybean
+root
+skim
+underline
+summary
+comment
+producer
+industrial
+humour
+punchline
+verbal
+nonverbal
+mime
+Charlie Chaplin
+Edward Lear
+comedy
+Victor Hugo
+up to now
+brighten
+depressed
+content
+feel content with
+be content with
+performer
+astonish
+astonishing
+fortunate
+unfortunately
+badly off
+teens
+ordinary
+bored
+subtle
+entertain
+entertaining
+charming
+tramp
+throughout
+homeless
+moustache
+worn
+worn-out
+stiffly
+failure
+optimism
+overcome
+underdog
+snowstorm
+leather
+pick out
+lace
+cut off
+chew
+mouthful
+enjoyment
+convince
+convincing
+direct
+star in
+Oscar
+outstanding
+Switzerland
+confidence
+costume
+gesture
+particular
+particularly
+occasion
+budget
+actress
+slide
+amuse
+amusing
+pancake
+explanation
+detective
+Sherlock Holmes
+mountainous
+whisper
+vast
+rhythm
+mess
+react
+porridge
+drunk
+statement
+greet
+represent
+association
+dormitory
+canteen
+flight
+curious
+curiously
+Garcia
+Colombia
+approach
+cheek
+defend
+defend ... against
+defence
+major
+misunderstand
+misunderstood
+misunderstanding
+Akira Nagata
+Ahmed Aziz
+Jordan
+Darlene Coulon
+dash
+adult
+simply
+Muslim
+spoken
+unspoken
+posture
+Spain
+Italy
+likely
+be likely to
+in general
+crossroads
+employee
+frown
+misread
+facial
+function
+ease
+at ease
+truly
+false
+anger
+lose face
+turn one's back to
+fist
+yawn
+respectful
+subjective
+hug
+rank
+cassette
+theme
+Camelot Park
+central
+Central Park
+Dollywood
+various
+cartoon
+be famous for
+roller coaster
+whichever
+pirate
+fairy tale
+fantasy
+amusement
+swing
+swung
+attraction
+no wonder
+tourism
+wherever
+unique
+carpenter
+craftsman
+engine
+bald
+preserve
+length
+deed
+knight
+be modelled after
+Merlin the Wizard
+sword
+joust
+tournament
+settler
+athletic
+translator
+minority
+cloth
+Futuroscope
+jungle
+diver
+creature
+sunlight
+T-Rex
+advance
+in advance
+advanced
+brand
+get close to
+come to life
+outing
+admission
+shuttle
+freeway
+souvenir
+sneaker
+brochure
+statistic
+sunburnt
+struggle
+decade
+super
+hybrid
+output
+strain
+crop
+hunger
+disturbing
+expand
+circulate
+Vietnam
+thanks to
+battle
+rid
+rid ... of
+be satisfied with
+freedom
+would rather
+therefore
+equip
+sorghum
+grain
+peanut
+export
+nationality
+occupation
+personality
+confuse
+regret
+chemical
+organic
+fertile
+fertilizer
+production
+bacteria
+pest
+build up
+lead to
+nutrition
+mineral
+discovery
+focus
+focus on
+soil
+reduce
+keep ... free from
+keep ... free of
+soybean
+soyabean
+root
+skim
+underline
+summary
+comment
+producer
+industrial
+humour
+punchline
+verbal
+nonverbal
+mime
+Charlie Chaplin
+Edward Lear
+comedy
+Victor Hugo
+up to now
+brighten
+depressed
+content
+feel content with
+be content with
+performer
+astonish
+astonishing
+fortunate
+unfortunately
+badly off
+teens
+ordinary
+bored
+subtle
+entertain
+entertaining
+charming
+tramp
+throughout
+homeless
+moustache
+worn
+worn-out
+stiffly
+failure
+optimism
+overcome
+underdog
+snowstorm
+leather
+pick out
+lace
+cut off
+chew
+mouthful
+enjoyment
+convince
+convincing
+direct
+star in
+Oscar
+outstanding
+Switzerland
+confidence
+costume
+gesture
+particular
+particularly
+occasion
+budget
+actress
+slide
+amuse
+amusing
+pancake
+explanation
+detective
+Sherlock Holmes
+mountainous
+whisper
+vast
+rhythm
+mess
+react
+porridge
+drunk
+statement
+greet
+represent
+association
+dormitory
+canteen
+flight
+curious
+curiously
+Garcia
+Colombia
+approach
+cheek
+defend
+defend ... against
+defence
+major
+misunderstand
+misunderstood
+misunderstanding
+Akira Nagata
+Ahmed Aziz
+Jordan
+Darlene Coulon
+dash
+adult
+simply
+Muslim
+spoken
+unspoken
+posture
+Spain
+Italy
+likely
+be likely to
+in general
+crossroads
+employee
+frown
+misread
+facial
+function
+ease
+at ease
+truly
+false
+anger
+lose face
+turn one's back to
+fist
+yawn
+respectful
+subjective
+hug
+rank
+cassette
+theme
+Camelot Park
+central
+Central Park
+Dollywood
+various
+cartoon
+be famous for
+roller coaster
+whichever
+pirate
+fairy
+fantasy
+amusement
+swing
+attraction
+no wonder
+tourism
+wherever
+unique
+carpenter
+craftsman
+engine
+bald
+preserve
+length
+deed
+knight
+be modelled after
+Merlin the Wizard
+sword
+joust
+tournament
+settler
+athletic
+translator
+minority
+cloth
+Futuroscope
+jungle
+diver
+creature
+sunlight
+T-Rex
+advance
+in advance
+advanced
+brand
+get close to
+come to life
+outing
+admission
+shuttle
+freeway
+souvenir
+sneaker
+brochure

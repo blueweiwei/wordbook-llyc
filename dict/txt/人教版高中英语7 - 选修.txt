@@ -1,0 +1,776 @@
+﻿disability
+disability
+disabled
+disabled
+hearing
+hearing
+eyesight
+eyesight
+syndrome
+syndrome
+infantile paralysis
+infantile paralysis
+Rosalyn
+Rosalyn
+lap
+lap
+ambition
+ambition
+ambitious
+ambitious
+dictation
+dictation
+Sally
+Sally
+noisy
+noisy
+suitable
+suitable
+entry
+entry
+beneficial
+beneficial
+Marty Fielding
+Marty Fielding
+in other words
+in other words
+clumsy
+clumsy
+bump
+bump
+outgoing
+outgoing
+adapt
+adapt
+adapt to
+adapt to
+bench
+bench
+cut out
+cut out
+microscope
+microscope
+out of breath
+out of breath
+absence
+absence
+fellow
+fellow
+annoy
+annoy
+annoyed
+annoyed
+annoyance
+annoyance
+all in all
+all in all
+firm
+firm
+software
+software
+sit around
+sit around
+as well as
+as well as
+parrot
+parrot
+tank
+tank
+tortoise
+tortoise
+in many ways
+in many ways
+psychology
+psychology
+psychologically
+psychologically
+make fun of
+make fun of
+encouragement
+encouragement
+conduct
+conduct
+mainstream
+mainstream
+fulfilling
+fulfilling
+never mind
+never mind
+politics
+politics
+abolish
+abolish
+abolition
+abolition
+resign
+resign
+slavery
+slavery
+literature
+literature
+Barry Minto
+Barry Minto
+Mount Kilimanjaro
+Mount Kilimanjaro
+companion
+companion
+assistance
+assistance
+congratulate
+congratulate
+congratulation
+congratulation
+bowling
+bowling
+graduation
+graduation
+certificate
+certificate
+all the best
+all the best
+architect
+architect
+Sanders
+Sanders
+adequate
+adequate
+access
+access
+accessible
+accessible
+wheelchair
+wheelchair
+handy
+handy
+earphone
+earphone
+impair
+impair
+row
+row
+basement
+basement
+outwards
+outwards
+exit
+exit
+meet with
+meet with
+approval
+approval
+dignity
+dignity
+profit
+profit
+italics
+italics
+community
+community
+household
+fiction
+desire
+Isaac Asimov
+satisfaction
+Larry Belmont
+test out
+Claire
+bonus
+alarm
+alarmed
+apron
+sympathy
+overweight
+elegant
+Gladys Claffern
+favour
+pile
+scan
+fingernail
+absurd
+haircut
+makeup
+accompany
+cushion
+bedding
+necklace
+clerk
+counter
+ring up
+turn around
+awful
+affair
+armchair
+declare
+cuisine
+envy
+leave ... alone
+digital
+mailbox
+aside
+set aside
+grand
+Marion
+alphabetical
+receiver
+in all
+affection
+bound
+be bound to
+biography
+holy
+imagination
+transfusion
+part-time
+master's degree
+staff
+Philadelphia
+navy
+junior
+PhD
+biochemistry
+Boston
+talent
+chapter
+the Foundation trilogy
+empire
+theoretical
+framework
+thinking
+divorce
+obey
+disobey
+assessment
+snorkel
+aquarium
+anecdote
+Clancy
+baleen
+baleen whale
+annual
+migration
+witness
+accommodation
+shore
+offshore
+opposite
+yell
+pause
+oar
+telescope
+teamwork
+blow-hole
+dive
+flee
+fled
+harpoon
+drag
+depth
+meantime
+in the meantime
+lip
+overboard
+urge
+abandon
+shark
+help out
+help ... out
+relationship
+conservation
+iceberg
+jog
+seaside
+net
+target
+tide
+driftnet
+dimension
+reflect
+pure
+cell
+aware
+be aware of
+become aware of
+vivid
+neat
+seaweed
+narrow
+flashlight
+upside down
+suck
+sea-slug
+turtle
+eel
+sharp
+tasty
+giant
+clam
+grey
+scare
+scared to death
+be scared to death
+shallow
+steep
+boundary
+Antarctic
+the Antarctic
+awesome
+leap
+leapt
+leaped
+seal
+refund
+pension
+pensioner
+airmail
+Papua New Guinea
+fortnight
+hear from
+dying to
+be dying to
+roof
+muddy
+textbook
+concept
+bucket
+the other day
+weekly
+bubble
+relevant
+remote
+ridge
+weed
+hut
+rectangle
+rectangular
+adjust
+platform
+broom
+tin
+jar
+sniff
+participate
+interpreter
+grill
+dry out
+leftover
+evil
+dry up
+otherwise
+privilege
+paperwork
+arrangement
+toast
+comb
+astronaut
+angle
+catalogue
+donate
+voluntary
+in need
+purchase
+anniversary
+seed
+seedling
+vaccination
+loan
+sew
+sewing machine
+supplement
+ox
+plough
+trunk
+trunk library
+tractor
+Kenya
+Bangladesh
+click
+tailor
+Tanzania
+economic
+political
+Nepal
+Uganda
+distribute
+distribution
+financial
+security
+operate
+Sudan
+clinic
+Malawi
+adjust to
+keep it up
+fit in
+motherland
+visa
+queue
+cafeteria
+lecture
+qualification
+preparation
+recommend
+shopkeeper
+idiom
+comfort
+substitute
+academic
+requirement
+essay
+tutor
+revise
+revision
+draft
+numb
+acknowledge
+as far as one is concerned
+contradict
+autonomous
+occupy
+be occupied with
+enterprise
+apology
+seminar
+videophone
+rugby
+bachelor
+bachelor's degree
+routine
+minibus
+optional
+day in and day out
+cage
+bark
+battery
+site
+Julie
+Abigail
+drill
+oilfield
+Jamie
+Sam
+Lima
+Cuzco
+the Andes Mountains
+Peru
+Lia
+agent
+travel agent
+geographical
+parallel
+Lake Titicaca
+abundant
+Inca Empire
+govern
+onwards
+destination
+Machu Picchu
+inn
+out of the question
+hike
+Puno
+tomb
+the Amazon Jungle
+settle in
+household
+fiction
+desire
+Isaac Asimov
+satisfaction
+Larry Belmont
+test out
+Claire
+bonus
+alarm
+alarmed
+apron
+sympathy
+overweight
+elegant
+Gladys Claffern
+favour
+pile
+scan
+fingernail
+absurd
+haircut
+makeup
+accompany
+cushion
+bedding
+necklace
+clerk
+counter
+ring up
+turn around
+awful
+affair
+armchair
+declare
+cuisine
+envy
+leave ... alone
+digital
+mailbox
+aside
+set aside
+grand
+Marion
+alphabetical
+receiver
+in all
+affection
+bound
+be bound to
+biography
+holy
+imagination
+transfusion
+part-time
+master's degree
+staff
+Philadelphia
+navy
+junior
+PhD
+Doctor of Philosophy
+biochemistry
+Boston
+talent
+chapter
+the Foundation trilogy
+empire
+theoretical
+framework
+thinking
+divorce
+obey
+disobey
+assessment
+snorkel
+aquarium
+anecdote
+Clancy
+baleen
+baleen whale
+annual
+migration
+witness
+accommodation
+shore
+offshore
+opposite
+yell
+pause
+oar
+telescope
+teamwork
+blow-hole
+dive
+flee
+harpoon
+drag
+depth
+meantime
+in the meantime
+lip
+overboard
+urge
+abandon
+shark
+help out
+help ... out
+relationship
+conservation
+iceberg
+jog
+seaside
+net
+target
+tide
+driftnet
+dimension
+reflect
+pure
+cell
+aware
+be aware of
+become aware of
+vivid
+neat
+seaweed
+narrow
+flashlight
+upside down
+suck
+sea-slug
+turtle
+eel
+sharp
+tasty
+giant
+clam
+grey
+scare
+scared to death
+be scared to death
+shallow
+steep
+boundary
+Antarctic
+the Antarctic
+awesome
+leap
+seal
+refund
+pension
+pensioner
+airmail
+Papua New Guinea
+fortnight
+hear from
+dying to
+be dying to
+roof
+muddy
+textbook
+concept
+bucket
+the other day
+weekly
+bubble
+relevant
+remote
+ridge
+weed
+hut
+rectangle
+rectangular
+adjust
+platform
+broom
+tin
+jar
+sniff
+participate
+interpreter
+grill
+dry out
+leftover
+evil
+dry up
+otherwise
+privilege
+paperwork
+arrangement
+toast
+comb
+astronaut
+angle
+catalogue
+donate
+voluntary
+in need
+purchase
+anniversary
+seed
+seedling
+vaccination
+loan
+sew
+sewing machine
+supplement
+ox
+plough
+trunk
+trunk library
+tractor
+Kenya
+Bangladesh
+click
+tailor
+Tanzania
+economic
+political
+Nepal
+Uganda
+distribute
+distribution
+financial
+security
+operate
+Sudan
+clinic
+Malawi
+adjust to
+keep it up
+fit in
+motherland
+visa
+queue
+cafeteria
+lecture
+qualification
+preparation
+recommend
+shopkeeper
+idiom
+comfort
+substitute
+academic
+requirement
+essay
+tutor
+revise
+revision
+draft
+numb
+acknowledge
+as far as one is concerned
+contradict
+autonomous
+occupy
+be occupied with
+enterprise
+apology
+seminar
+videophone
+Rugby
+bachelor
+bachelor's degree
+routine
+minibus
+optional
+day in and day out
+cage
+bark
+battery
+site
+Julie
+Abigail
+drill
+oilfield
+Jamie
+Sam
+Lima
+Cuzco
+the Andes mountains
+Peru
+Lia
+agent
+travel agent
+geographical
+parallel
+Lake Titicaca
+abundant
+Inca
+govern
+onwards
+destination
+Machu Picchu
+inn
+out of the question
+hike
+Puno
+tomb
+the Amazon
+settle in

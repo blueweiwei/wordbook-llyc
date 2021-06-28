@@ -1,0 +1,480 @@
+﻿baseball
+baseball
+title
+title
+corner
+corner
+Walker
+Walker
+Newcastle
+Newcastle
+metre
+metre
+own
+own
+nearby
+nearby
+college
+college
+university
+university
+accountant
+accountant
+during
+during
+keen
+keen
+keen on
+keen on
+be keen on
+be keen on
+ski
+ski
+table tennis
+table tennis
+best
+best
+physics
+physics
+ambition
+ambition
+maybe
+maybe
+enclose
+enclose
+height
+height
+dream
+dream
+probably
+probably
+tie
+tie
+roof
+roof
+similar
+similar
+similar to
+similar to
+be similar to
+be similar to
+expect
+expect
+business
+business
+whizz-kid
+whizz-kid
+successful
+successful
+put on
+put on
+luckily
+luckily
+popular
+popular
+responsible
+responsible
+responsible for
+responsible for
+be responsible for
+be responsible for
+sale
+sale
+client
+client
+boring
+boring
+simple
+simple
+achieve
+achieve
+fail
+fail
+exam
+exam
+return
+return
+attend
+attend
+assist
+assist
+continue
+continue
+seldom
+seldom
+usual
+usual
+repeat
+repeat
+explain
+explain
+energy
+energy
+cell
+cell
+force
+force
+heat
+heat
+physical
+physical
+article
+article
+ever
+ever
+argue
+argue
+deal with
+deal with
+trouble
+trouble
+unusual
+unusual
+happen to
+happen to
+argument
+argument
+hold out
+hold out
+crowd
+crowd
+stare
+stare
+through
+through
+quietly
+quietly
+be going on
+be going on
+steal
+steal
+purse
+purse
+postcard
+postcard
+gone
+gone
+gate
+gate
+aboard
+aboard
+go after
+go after
+strange
+strange
+afraid of
+afraid of
+be afraid of
+be afraid of
+dial
+dial
+theft
+theft
+detail
+detail
+put ... down
+put ... down
+get off
+get off
+worried
+worried
+well done
+well done
+realize
+realize
+fight
+fight
+rather
+rather
+downstairs
+downstairs
+divide
+divide
+degree
+degree
+especially
+especially
+calculate
+calculate
+brain
+brain
+part
+part
+language
+language
+nearly
+nearly
+system
+system
+invent
+invent
+develop
+develop
+invention
+invention
+abacus
+abacus
+accurate
+accurate
+electronic
+electronic
+calculator
+calculator
+subtract
+subtract
+multiply
+multiply
+percentage
+percentage
+square root
+square root
+powerful
+powerful
+in a flash
+in a flash
+calculation
+calculation
+whole
+whole
+lifetime
+lifetime
+against
+against
+living
+living
+human
+human
+following
+following
+amazing
+amazing
+solve
+solve
+lightning
+lightning
+like lightning
+like lightning
+program
+program
+power
+power
+complete
+complete
+check
+check
+Africa
+Africa
+Europe
+Europe
+fierce
+fierce
+though
+though
+look up
+look up
+encyclopaedia
+encyclopaedia
+dinosaur
+dinosaur
+exist
+exist
+even
+even
+harmless
+harmless
+harmful
+harmful
+die out
+die out
+nobody
+nobody
+know about
+know about
+skeleton
+skeleton
+footprint
+footprint
+leave ... behind
+leave ... behind
+thinker
+thinker
+Greece
+Greece
+as ... as possible
+as ... as possible
+jar
+jar
+amusement park
+amusement park
+create
+create
+character
+character
+mail
+mail
+real
+real
+while
+while
+cause
+cause
+harm
+harm
+believe
+believe
+die of
+die of
+disease
+disease
+government
+government
+repair
+repair
+fee
+fee
+journey
+journey
+captain
+captain
+take place
+take place
+in trouble
+in trouble
+navigator
+navigator
+lost
+lost
+run out of
+run out of
+unexplored
+unexplored
+bring down
+bring down
+valley
+valley
+close to
+close to
+cliff
+cliff
+rock
+rock
+storey
+storey
+approach
+approach
+monster
+monster
+clearly
+clearly
+partly
+partly
+kangaroo
+kangaroo
+giant
+giant
+except
+except
+single
+single
+roar
+roar
+blood
+blood
+alien
+alien
+steel
+steel
+rat
+rat
+trap
+trap
+magnet
+magnet
+cage
+cage
+peace
+peace
+in peace
+in peace
+in pieces
+in pieces
+favour
+favour
+do ... a favour
+do ... a favour
+trust
+trust
+offer
+offer
+frighten
+frighten
+crew
+crew
+arrange
+arrange
+below
+below
+per
+per
+escape
+escape
+escape from
+escape from
+kill
+kill
+lie
+lie
+fall asleep
+fall asleep
+snore
+snore
+laser
+laser
+torch
+torch
+case
+case
+attract
+attract
+interrupt
+interrupt
+moment
+moment
+aim
+aim
+aim at
+aim at
+beam
+beam
+hit
+hit
+attack
+attack
+damage
+damage
+finished
+finished
+make sure
+make sure
+whisper
+whisper
+be done for
+be done for
+panic
+panic
+freedom
+freedom
+figure
+figure
+silently
+silently
+search
+search
+crash
+crash
+base
+base
+petrol
+petrol
+decide
+decide

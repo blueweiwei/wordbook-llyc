@@ -1,0 +1,788 @@
+﻿realistic
+realistic
+abstract
+abstract
+sculpture
+sculpture
+sculptor
+sculptor
+gallery
+gallery
+faith
+faith
+faithfully
+faithfully
+consequently
+consequently
+aim
+aim
+conventional
+conventional
+typical
+typical
+evident
+evident
+Giotto di Bondone
+Giotto di Bondone
+renaissance
+renaissance
+the Renaissance
+the Renaissance
+adopt
+adopt
+humanistic
+humanistic
+possess
+possess
+possession
+possession
+superb
+superb
+perspective
+perspective
+technique
+technique
+Masaccio
+Masaccio
+coincidence
+coincidence
+by coincidence
+by coincidence
+masterpiece
+masterpiece
+impressionism
+impressionism
+impressionist
+impressionist
+post-impressionist
+post-impressionist
+a great deal
+a great deal
+shadow
+shadow
+ridiculous
+ridiculous
+controversial
+controversial
+attempt
+attempt
+on the other hand
+on the other hand
+predict
+predict
+landscape
+landscape
+specific
+specific
+figure
+figure
+clay
+clay
+critic
+critic
+bronze
+bronze
+marble
+marble
+Mona Lisa
+Mona Lisa
+Leonardo da Vinci
+Leonardo da Vinci
+carve
+carve
+delicate
+delicate
+Michelangelo
+Michelangelo
+canvas
+canvas
+Picasso
+Picasso
+café
+café
+allergic
+allergic
+effectively
+effectively
+exhibition
+exhibition
+aggressive
+aggressive
+scholar
+scholar
+flesh
+flesh
+in the flesh
+in the flesh
+Matisse
+Matisse
+geometry
+geometry
+bunch
+bunch
+Manhattan
+Manhattan
+avenue
+avenue
+preference
+preference
+Guggenheim Museum
+Guggenheim Museum
+display
+display
+appeal
+appeal
+appeal to
+appeal to
+fragile
+fragile
+circular
+circular
+metropolitan
+metropolitan
+reputation
+reputation
+civilization
+civilization
+Egypt
+Egypt
+Egyptian
+Egyptian
+visual
+visual
+fragrant
+fragrant
+Monet
+Monet
+Whitney
+Whitney
+Madison
+Madison
+contemporary
+contemporary
+permanent
+permanent
+district
+district
+committee
+committee
+signature
+signature
+poetry
+tick
+rhyme
+convey
+emotion
+nursery
+nursery rhyme
+concrete
+repetition
+contradictory
+hush
+mockingbird
+diamond
+brass
+billy-goat
+flexible
+pattern
+squire
+cottage
+coffin
+sparrow
+kitten
+take it easy
+run out of
+cinquain
+be made up of
+tease
+salty
+droop
+dread
+endless
+haiku
+syllable
+minimum
+translation
+branch
+melt
+melted
+molten
+brimful
+in particular
+eventually
+await
+transform
+revolve
+utter
+sorrow
+bare
+librarian
+forever
+stem
+cement
+section
+appropriate
+exchange
+diploma
+sponsor
+blank
+compass
+bride
+bridegroom
+championship
+rhythmic
+darkness
+warmth
+try out
+scholarship
+pianist
+violinist
+let out
+load
+cigarette
+alcohol
+alcoholic
+abuse
+fitness
+sexual
+stress
+stressful
+obesity
+adolescent
+adolescence
+ban
+due
+due to
+tough
+addicted
+addicted to
+nicotine
+accustom
+accustomed
+accustomed to
+withdrawal
+bad-tempered
+automatic
+automatically
+mental
+mentally
+quit
+effect
+lung
+pregnant
+abnormal
+breathless
+unfit
+strengthen
+resolve
+decide on
+packet
+feel like
+feel like doing
+relaxation
+desperate
+chemist
+gum
+chewing gum
+disappointed
+weaken
+ashamed
+comprehension
+in spite of
+take risks
+take a risk
+get into
+etc
+appendix
+illegal
+pill
+robbery
+slippery
+HIV
+AIDS
+at risk
+SARS
+immune
+survival
+sex
+fluid
+inject
+injection
+needle
+spill
+male
+female
+condom
+homosexual
+prejudice
+judgement
+disco
+abortion
+cigar
+embarrassed
+awkward
+consume
+renewable
+greenhouse
+Fahrenheit
+come about
+Sophie
+Armstrong
+graph
+random
+phenomenon
+subscribe
+subscribe to
+fossil
+fuel
+byproduct
+Janice
+Foster
+methane
+Celsius
+quantity
+quantities of
+tend
+go up
+Charles Keeling
+measurement
+per
+data
+result in
+trend
+catastrophe
+flood
+drought
+famine
+George Hambley
+oppose
+opposed
+be opposed to
+mild
+environmental
+environmentalist
+consequence
+state
+range
+even if
+keep on
+glance
+steady
+steadily
+tendency
+widespread
+on the whole
+economical
+hectare
+average
+existence
+outer
+on behalf of
+individual
+advocate
+commitment
+put up with
+pollution
+growth
+electrical
+appliance
+so long as
+casual
+and so on
+motor
+can
+circumstance
+microwave
+refresh
+educator
+contribution
+imperative
+heading
+slogan
+presentation
+nuclear
+disagreement
+diagram
+volcano
+volcanic
+volcanology
+volcanologist
+erupt
+eruption
+ash
+crater
+lava
+hurricane
+questionnaire
+alongside
+equipment
+appoint
+observatory
+database
+Mount Kilauea
+evaluate
+burn to the ground
+wave
+molten
+fountain
+absolute
+absolutely
+spaceman
+suit
+helmet
+boot
+make one's way
+potential
+actual
+geology
+Mount Etna
+Sicily
+sample
+candidate
+Mount Vesuvius
+threat
+bungalow
+Pompeii
+tornado
+typhoon
+thunderstorm
+precious
+novelist
+fog
+document
+rainbow
+uncomfortable
+balcony
+unconscious
+shoot
+shot
+tremble
+sweat
+anxious
+anxiety
+panic
+panicked
+tsunami
+glance through
+Manchu
+vary from ... to ...
+diverse
+diversity
+crane
+leopard
+spectacular
+bathe
+arouse
+appreciation
+peak
+persuasion
+guarantee
+poetry
+tick
+rhyme
+convey
+emotion
+nursery
+nursery rhyme
+concrete
+repetition
+contradictory
+hush
+mockingbird
+diamond
+brass
+billy-goat
+flexible
+pattern
+squire
+cottage
+coffin
+sparrow
+kitten
+take it easy
+run out of
+cinquain
+be made up of
+tease
+salty
+droop
+dread
+endless
+haiku
+syllable
+minimum
+translation
+branch
+melt
+brimful
+in particular
+eventually
+await
+transform
+revolve
+utter
+sorrow
+bare
+librarian
+forever
+trunk
+cement
+section
+appropriate
+exchange
+diploma
+sponsor
+blank
+compass
+bride
+bridegroom
+championship
+rhythmic
+darkness
+warmth
+try out
+scholarship
+pianist
+violinist
+let out
+load
+cigarette
+alcohol
+alcoholic
+abuse
+fitness
+sexual
+stress
+stressful
+obesity
+adolescent
+adolescence
+ban
+due
+due to
+tough
+addicted
+addicted to
+nicotine
+accustom
+accustomed
+accustomed to
+withdrawal
+bad-tempered
+automatic
+automatically
+mental
+mentally
+quit
+effect
+lung
+pregnant
+abnormal
+breathless
+unfit
+strengthen
+resolve
+decide on
+packet
+feel like
+feel like doing
+relaxation
+desperate
+chemist
+gum
+chewing gum
+disappointed
+weaken
+ashamed
+comprehension
+in spite of
+take risks
+take a risk
+get into
+etc
+et cetera
+appendix
+illegal
+pill
+robbery
+slippery
+HIV
+Human Immunodeficiency Virus
+AIDS
+Acquired Immune Deficiency Syndrome
+at risk
+SARS
+Severe Acute Respiratory Syndrome
+immune
+survival
+sex
+fluid
+inject
+injection
+needle
+spill
+male
+female
+condom
+homosexual
+prejudice
+judgement
+disco
+abortion
+cigar
+embarrassed
+awkward
+consume
+renewable
+greenhouse
+Fahrenheit
+come about
+Sophie
+Armstrong
+graph
+random
+phenomenon
+subscribe
+subscribe to
+fossil
+fuel
+byproduct
+Janice
+Foster
+methane
+Celsius
+quantity
+quantities of
+tend
+go up
+Charles Keeling
+measurement
+per
+data
+result in
+trend
+catastrophe
+flood
+drought
+famine
+George Hambley
+oppose
+opposed
+be opposed to
+mild
+environmental
+environmentalist
+consequence
+state
+range
+even if
+keep on
+glance
+steady
+tendency
+widespread
+on the whole
+economical
+hectare
+average
+existence
+outer
+on behalf of
+individual
+advocate
+commitment
+put up with
+pollution
+growth
+electrical
+appliance
+so long as
+casual
+and so on
+motor
+can
+circumstance
+microwave
+refresh
+educator
+contribution
+imperative
+heading
+slogan
+presentation
+nuclear
+disagreement
+diagram
+volcano
+volcanic
+volcanology
+volcanologist
+erupt
+eruption
+ash
+crater
+lava
+hurricane
+questionnaire
+alongside
+equipment
+appoint
+observatory
+database
+Mount Kilauea
+evaluate
+burn to the ground
+wave
+molten
+fountain
+absolute
+absolutely
+spaceman
+suit
+helmet
+boot
+make one's way
+potential
+actual
+geology
+Mount Etna
+Sicily
+sample
+candidate
+Mount Vesuvius
+threat
+bungalow
+Pompeii
+tornado
+typhoon
+thunderstorm
+precious
+novelist
+fog
+document
+rainbow
+uncomfortable
+balcony
+unconscious
+shoot
+shot
+tremble
+sweat
+anxious
+anxiety
+panic
+tsunami
+glance through
+Manchu
+vary from ... to ...
+diverse
+diversity
+crane
+leopard
+spectacular
+bathe
+arouse
+appreciation
+peak
+persuasion
+guarantee
