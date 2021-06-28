@@ -1,0 +1,15 @@
+wordway: 1.0.0
+info:
+  slug: llyc
+  title: 考研恋练有词-新东方版
+  summary: 词汇学习，随时随地学单词
+  tags:
+    - 考研
+    - words
+  visibility: public
+  difficulty_level: D3
+  repository_type: git
+  repository_url: https://github.com/blueweiwei/wordbook-llyc
+  author: blueweiwei
+  author_email: blackacloud@hotmail.com
+  author_link: https://github.com/blueweiwei
